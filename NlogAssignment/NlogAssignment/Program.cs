@@ -10,8 +10,10 @@ namespace NlogAssignment
     {
         static void Main(string[] args)
         {
-            ArrayListDemo arrayListDemo = new ArrayListDemo();
-            arrayListDemo.Method();
+            /* ArrayListDemo arrayListDemo = new ArrayListDemo();
+             arrayListDemo.Method(); */
+            DictionaryDemo dictionaryExample = new DictionaryDemo();
+            dictionaryExample.DictMethod();
             Console.ReadKey();
         }
     }

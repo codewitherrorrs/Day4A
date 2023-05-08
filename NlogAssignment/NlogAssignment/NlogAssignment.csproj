@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayListDemo.cs" />
+    <Compile Include="DictionaryDemo.cs" />
     <Compile Include="Nlog.cs">
       <DependentUpon>NLog.xsd</DependentUpon>
     </Compile>
